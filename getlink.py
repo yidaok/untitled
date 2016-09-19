@@ -7,7 +7,7 @@ from bs4 import BeautifulSoup
 import codecs
 import re
 
-url='http://cn163.92game.net/ddc1/ddc6/636.html'
+url='https://www.douban.com/note/168932131/'
 html=requests.get(url).content
 links=re.findall(r'href=["\'](%s.*?)["\']',html)
 table=[]
