@@ -1,16 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="baf2687a-d768-480b-abc1-9550b78b21f7" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bac.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/index2.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lianxi.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/movies" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/untitled.iml" afterPath="$PROJECT_DIR$/.idea/untitled.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.py" afterPath="$PROJECT_DIR$/index.py" />
-    </list>
+    <list default="true" id="baf2687a-d768-480b-abc1-9550b78b21f7" name="Default" comment="" />
     <ignored path="untitled.iws" />
     <ignored path=".idea/workspace.xml" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
